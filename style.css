@@ -1,0 +1,12 @@
+body{
+    background: yellow;
+    text-align:center;
+  }
+
+  input{
+      width: 50px;
+      border-radius: 10px;
+  }
+  button{
+      border-radius: 10px;
+  }
